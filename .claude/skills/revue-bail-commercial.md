@@ -1,3 +1,9 @@
+---
+name: revue-bail
+description: Analyse et revue de baux commerciaux 3/6/9 (statut des baux commerciaux, Code de commerce). Déclenché quand l'utilisateur demande d'analyser ou revoir un bail commercial.
+user_invocable: true
+---
+
 # Revue de Bail Commercial 3/6/9
 
 Skill dédié à l'analyse et la revue de baux commerciaux soumis au statut des baux commerciaux (articles L145-1 et suivants du Code de commerce).
